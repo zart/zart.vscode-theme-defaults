@@ -1,11 +1,11 @@
 {
-  "name": "zart-vscode-theme-defaults",
+  "name": "vscode-theme-defaults",
   "displayName": "%displayName%",
   "description": "%description%",
   "categories": [
     "Themes"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "publisher": "zart",
   "engines": {
